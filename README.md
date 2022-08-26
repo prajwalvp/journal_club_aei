@@ -18,7 +18,7 @@ Title: Is the Black-widow Pulsar PSR J1555-2908 in a Hierarchical Triple System?
 
 Link: https://arxiv.org/pdf/2202.05482.pdf
 
-3. 21/07/22
+3. 21/07/2022
 
 Speaker: Anjana Ashok
 
@@ -26,7 +26,7 @@ Title: Narrowband Searches for Continuous and Long-duration Transient Gravitatio
 
 Link: https://arxiv.org/pdf/2112.10990.pdf
 
-4. 18/08/22
+4. 18/08/2022
 
 Speaker: Sumit Kumar
 
